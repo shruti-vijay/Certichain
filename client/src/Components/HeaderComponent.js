@@ -21,7 +21,7 @@ class Header extends Component{
                 <Navbar dark expand="md">
                     <div className="container justify-center">
                         <NavbarToggler onClick={this.toggleNav}/>
-                        <NavbarBrand className="mr-auto" >CERTICHAIN</NavbarBrand>
+                        <NavbarBrand className="mr-auto" >ACRO CERTICHAIN</NavbarBrand>
                         <Collapse isOpen = {this.state.isNavOpen} navbar>
                             <Nav navbar className="m-auto"> 
                                 <NavItem>

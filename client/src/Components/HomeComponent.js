@@ -8,9 +8,9 @@ function Home() {
         <>
             <div>
                 <Container>
-                    <h1>Welcome to Certichain</h1>
+                    <h1>Welcome to Acropolis Certichain</h1>
                     <div>
-                        <img src="https://www.eastbaytimes.com/wp-content/uploads/2019/06/SCHWARZENEGGER_DIPLOMAS_2_-1.jpg?w=980"/>
+                        <img src="https://aimsr.ac.in/wp-content/uploads/2015/09/building-big-picture.jpg" width={900}/>
                     </div>
                 </Container>
             </div>
